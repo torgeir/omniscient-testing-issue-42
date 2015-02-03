@@ -1,0 +1,22 @@
+{
+  "name": "omniscient-testing-issue-42",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "6to5": "^3.3.4",
+    "6to5-runtime": "^3.3.4",
+    "6to5-core": "^3.3.4",
+    "6to5-loader": "^3.0.0",
+    "react": "^0.12.2",
+    "webpack-dev-server": "^1.7.0",
+    "react-hot-loader": "^1.1.4",
+    "omniscient": "^2.1.0",
+    "webpack": "^1.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+  },
+  "author": "@torgeir",
+  "license": "mit"
+}
